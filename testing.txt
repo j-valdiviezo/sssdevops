@@ -5,6 +5,7 @@ This is the start of testing.txt
 test file
 Now I added a new line!
 New line from the browser
+And now I added another line!
 
 ******************************************
 This is the end of testing.txt
