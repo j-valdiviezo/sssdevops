@@ -8,6 +8,7 @@ if __name__ == "__main__":
         version=versioneer.get_version(),
         description='Example project for the SSS Devops course',
         author='Jesus Valdiviezo',
+        author_email='jvaldiviezo93@gmail.com',
         url="https://github.com/jvaldiviezom/sssdevops",
         license='BSD 3-C',
         packages=setuptools.find_packages(),
