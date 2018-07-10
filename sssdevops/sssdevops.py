@@ -20,7 +20,7 @@ def mean(num_lst):
 
     Examples
     --------
-    >>> mean([1,2,3,4,5])
+    >>> mean([1, 2, 3, 4, 5])
     3.0
     """
 

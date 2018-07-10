@@ -1,0 +1,32 @@
+"""
+More list manipulations
+"""
+
+def split(in_list, index):
+"""
+Parameters
+----------
+
+in_list: list
+index: int
+
+Returns
+-------
+Two lists, 
+
+Examples
+--------
+>>> split([])
+
+
+"""
+
+
+
+
+
+list1= in_list[:index]
+list2= in_list[index:]
+
+return list1, list2
+
