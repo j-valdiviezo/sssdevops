@@ -3,30 +3,25 @@ More list manipulations
 """
 
 def split(in_list, index):
-"""
-Parameters
-----------
+    """
+    Parameters
+    ----------
 
-in_list: list
-index: int
+    in_list: list
+    index: int
 
-Returns
--------
-Two lists, 
+    Returns
+    -------
+    Two lists, 
 
-Examples
---------
->>> split([])
-
-
-"""
+    Examples
+    --------
+    >>> split([])
+    """
 
 
+    list1= in_list[:index]
+    list2= in_list[index:]
 
-
-
-list1= in_list[:index]
-list2= in_list[index:]
-
-return list1, list2
+    return list1, list2
 
